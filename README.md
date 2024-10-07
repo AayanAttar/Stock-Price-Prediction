@@ -76,10 +76,13 @@ Key data preprocessing steps include:
 4. **Feature Scaling**: Using `StandardScaler` to scale the features, ensuring that all input variables contribute equally to the model training.
 
 ## Model Development
-The Random Forest Regression model is employed for price prediction, involving the following key steps:
+Many models are employed for price prediction, involving the following key steps:
 1. **Data Splitting**: The dataset is split into training (80%) and testing (20%) sets to evaluate the model's performance.
-2. **Model Training**: The training dataset is used to fit the Random Forest model, enabling it to learn from historical data.
+2. **Model Training**: The training dataset is used to fit the  Model, enabling it to learn from historical data.
 3. **Cross-Validation**: Implementing cross-validation techniques to ensure robustness and reduce overfitting by evaluating the model on multiple subsets of the training data.
+4. Random Forest Regressor comes out as the best performing model
+
+
 
 ## Performance Metrics
 The model's performance is assessed using the following metrics:
