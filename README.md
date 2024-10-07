@@ -1,6 +1,5 @@
 # Stock-Price-Prediction
-# Stock-Price-Prediction
-# Stock Price Prediction Using Random Forest Regression
+
 
 ## Introduction
 This project aims to predict the stock price of Amazon using historical price and volume data derived from various financial instruments. The methodology employed includes exploring the relationships between features, applying data preprocessing techniques, and training a Random Forest Regression model to forecast the target stock price. Additionally, the project encompasses Exploratory Data Analysis (EDA) and performance evaluation using multiple metrics, including Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
